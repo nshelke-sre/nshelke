@@ -1,3 +1,3 @@
-# nshelke
+# Nitin Shelke
 
 Testing git project
